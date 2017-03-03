@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="welcome_text">Hi Ladies, welcome to SlimDown app, click start to achieve your weight loss goals.</string>
+    <string name="start_button">Lets get started!</string>
+
+
+    <string name="app_name">SlimDown</string>
+    <string name="text_description">Basal Matabolic Rate BMR</string>
+    <string name="text_description2">Estimate of how many calories your body burns at rest</string>
+    <string name="text_weight">Weight in Kilograms</string>
+    <string name="ent_weight">Weight</string>
+    <string name="text_height">Height in Centimeters</string>
+    <string name="ent_height">Height</string>
+    <string name="text_age">Age in years</string>
+    <string name="ent_age">Age</string>
+    <string name="button_calculate_bmr">Calculate</string>
+
+
+    <string name="title_activity_crunches">CrunchesActivity</string>
+    <string name="crunch_description">Crunches Timer</string>
+    <string name="crunch_description2">The Flat Belly Workout!</string>
+    <string name="crunch_description3">Don\'t Wish For IT, Work For IT!</string>
+    <string name="button_crunch_start">Start</string>
+    <string name="button_crunch_stop">Stop</string>
+    <string name="crunch_timer">15</string>
+
+    <string name="food_description">Negative Calorie Diet.</string>
+    <string name="food_description2">Click on the food image to check respective food calorie per serving.</string>
+    <string name="apricot">Apricot</string>
+    <string name="apple">Apple</string>
+    <string name="asparagus">Asparagus</string>
+    <string name="beetroot">Beetroot</string>
+    <string name="brocolli">Broccoli</string>
+</resources>
